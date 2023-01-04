@@ -10,9 +10,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Hii',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        
       ),// This trailing comma makes auto-formatting nicer for build methods.
     );
   }
